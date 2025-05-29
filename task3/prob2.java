@@ -10,5 +10,6 @@ public class prob2 {
             n=n/10;
         }
         System.out.println(s);
+        sc.close();
     }
 }

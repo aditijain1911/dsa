@@ -7,5 +7,6 @@ public class prob1 {
               f =  f*i;
         }
         System.out.println(f);
+        sc.close();
     }
 }

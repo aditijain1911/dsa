@@ -13,7 +13,7 @@ public class prob3 {
                   else{
                     System.out.println("not prime");
                   }
-
+                 sc.close();
         }
     }
 
