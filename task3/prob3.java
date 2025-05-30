@@ -6,14 +6,16 @@ public class prob3 {
         for(i=1; i<=n; i++){
             if(n%i==0){
                 count++;
-            }}
+          sc.close();  }}
               if(count==2){
                 System.out.println("prime");
               }
                   else{
                     System.out.println("not prime");
-                  }
-                 sc.close();
+                  
+                 
         }
+
+      }
     }
 

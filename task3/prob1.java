@@ -5,8 +5,9 @@ public class prob1 {
         long n = sc.nextInt(); double i,f=1;
         for( i=1; i<=n; i++){
               f =  f*i;
+              sc.close();
         }
         System.out.println(f);
-        sc.close();
+        
     }
 }
